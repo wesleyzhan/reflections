@@ -25,3 +25,8 @@ Not all files are committed to the repository. If any file is not added to the s
 How can you use the staging area to make sure you have one commit per logical change?
 
 Use ‘git diff’ and ‘git diff —- staged’ to check either one or more changes have been made.
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be useful when you want different versions of a program, probably because you want a version in another language, or probably because you want to experiment with some changes.
