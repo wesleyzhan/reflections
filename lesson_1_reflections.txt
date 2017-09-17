@@ -1,0 +1,37 @@
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+In MacOS, one can open the terminal and follow the following steps to see the difference and hence locate the bugs:
+1. Return to the home directory;
+2. Type ‘diff -u ~ ~’ in the terminal, while the two ‘~’s stand for two different files/versions of code to be compared.
+3. The differences would be displayed to the terminal.
+
+2) How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Therefore one can see all the changes highlighted and decide which version would be the best, thus the best decision could be made.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+The pros could be that, since the Git is not that smart enough to tell when to make a logical commit, it would definitely be better for human beings, that is, us the coders, to decide when to make a reasonable commit, which would make the commit history more logical and packed.
+
+However, there are also cons: if we forget to make a commit at opportune times every now and then, the commit history might not be that logical or useful compared to automatically saving commits.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Probably this is because the relationship of the files different control systems are treating. For example, Git is dealing with highly interdependent files that contain code relevant to one another. However, in Google Docs, most files can just stand alone because each of them contain independent information and that very single file could be opened and operated on alone without dependence on another file.
+
+5) How can you use the commands git log and git diff to view the history of files?
+Before using it, you must download and install Git first.
+Then, in the terminal(on Mac OS), first open the directory where you git files are saved; use ‘git log’ to view the log.
+Find the files you want to compare, and replace ‘~’ in the following code with their version IDs:
+‘git diff ~ ~’
+
+6) How might using version control make you more confident to make changes that could break something?
+
+First, I could have older versions saved before I make new changes.
+Second, when the new version breaks down, I could refer to the older one and compare it with the newer to see which change exactly results in the breaking down.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+
+Definitely for version control.
+
+
