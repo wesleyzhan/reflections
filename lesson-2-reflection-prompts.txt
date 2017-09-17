@@ -22,3 +22,6 @@ How is the staging area different from the working directory and the repository?
 Repository is like a history of changes in the file(s).
 Not all files are committed to the repository. If any file is not added to the staging area, they won’t be committed to the repository.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+Use ‘git diff’ and ‘git diff —- staged’ to check either one or more changes have been made.
