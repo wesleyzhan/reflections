@@ -40,4 +40,6 @@ What is the result of merging two branches together? Why do we represent it in t
 We have a new branch containing the features of both branches.
 Branch merging can be a mess because there might be several branches working and we can be on any of those. It is useful to see which we are working on and which we want to merge into our working branch.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
+It is good to have automatic merging since manual work would not only be redundant and unnecessary but also inaccurate. However, manual work is required while conflicts emerge because this is when human brain should come into place to first discern the meaning of certain contain and then decide which would stay and which would leave.
