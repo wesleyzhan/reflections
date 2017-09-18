@@ -35,3 +35,9 @@ How do the diagrams help you visualize the branch structure?
 
 The diagrams can help you know on which branch you are working. It is also helpful to visualize the relationship between branches.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+We have a new branch containing the features of both branches.
+Branch merging can be a mess because there might be several branches working and we can be on any of those. It is useful to see which we are working on and which we want to merge into our working branch.
+
+
