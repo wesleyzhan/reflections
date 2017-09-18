@@ -30,3 +30,8 @@ Use ‘git diff’ and ‘git diff —- staged’ to check either one or more ch
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 Branches would be useful when you want different versions of a program, probably because you want a version in another language, or probably because you want to experiment with some changes.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams can help you know on which branch you are working. It is also helpful to visualize the relationship between branches.
+
