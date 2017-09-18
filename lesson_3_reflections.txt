@@ -1,1 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+-Keeping things in Cloud nowadays are much more safe in terms of the storing of data.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+-As mentioned in lesson 1, manual commits would be much more logical than automatic ones.
