@@ -15,3 +15,8 @@ Clone: quite similar to making a copy of a repository either from the local comp
 Fork: make a copy from a github respository to your respository. This one is useful when you want to copy another user's respository.
 
 Branch: to deviate from your master branch and experiement with some new features without worrying about bugs or alike. Thus it is quite helpful when you want to experiement a little bit.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- First, you can reset your commits. Second, you can compare anytime your last modification with the last known state of remote.
+
