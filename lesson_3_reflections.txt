@@ -20,3 +20,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 - First, you can reset your commits. Second, you can compare anytime your last modification with the last known state of remote.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+-I might have to send files back and forth, save it in the cloud, etc. Git and Github would definitely make life easier.
